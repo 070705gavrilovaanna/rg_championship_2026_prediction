@@ -2,7 +2,7 @@
 
 Проект по прогнозированию результатов Чемпионата России 2026 года на основе данных, которые были собраны вручную за 2023-2025 годы. Используя машинное обучение, было предсказано топ-5 участниц в категориях "юниорки" и "сениорки" с оценкой их вероятных баллов.
 
-**Ссылка на проект:** [champ2026.ipynb](https://github.com/070705gavrilovaanna/rg_championship_2026_prediction/blob/main/champ2026.ipynb)
+**Ссылка на проект:** [champ2026.ipynb](https://colab.research.google.com/drive/1hBpLIoNGIQpOhWDBqg7Ttp40NneoiZwr#scrollTo=2Ha0FHX8Tmrc)
 
 ---
 
