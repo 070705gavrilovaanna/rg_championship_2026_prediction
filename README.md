@@ -2,7 +2,7 @@
 
 Прогнозирование результатов Чемпионата России 2026 по художественной гимнастике на основе исторических данных 2023-2025.
 
-**Ссылка на проект:** [championship2026.ipynb](https://colab.research.google.com/drive/1qt3iVu2TiZEJSUgbSs3x9yZHriEIsJdb#scrollTo=kHtfGuQ_qA-H)
+**Ссылка на проект:** [championship2026.ipynb](https://colab.research.google.com/drive/1qt3iVu2TiZEJSUgbSs3x9yZHriEIsJdb#scrollTo=WXM-N0PhWapp)
 
 ---
 
